@@ -1,4 +1,8 @@
 Cuento de Blancanieves
 
 Había una vez una princesa muy hermosa. Vivia con su madrastra malvada, que la hacía
+<<<<<<< HEAD
 trabajar todos los días!!!
+=======
+trabajar todos los días, como si fuera una lavandera. Pobrecilla.
+>>>>>>> ee310d0c40f5319425dd0bd65510a3afe4cf1f2a
